@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek
-- 👀 I’m interested in full stack web development(mern) and c++ , pyhton, java
+- 👀
 - 🌱 I’m currently learning machine learning and data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
