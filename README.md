@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek
-- 👀 Full Stack (Mern) developer 
+- 👀 Full Stack (Mern) Web developer 
 - 🌱 I’m currently learning machine learning and data analysis
 - 💞️ I’m looking to work on projects now on the daily basis
 - 📫 How to reach me my insta handle is _vivekk1_
