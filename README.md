@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Vivek
-- 👀
+- 👀 Full Stack (Mern) developer 
 - 🌱 I’m currently learning machine learning and data analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to work on projects now on the daily basis
+- 📫 How to reach me my insta handle is _vivekk1_
+
 
 <!---
 vivek-shaw-02/vivek-shaw-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
